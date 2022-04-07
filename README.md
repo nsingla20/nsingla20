@@ -1,4 +1,4 @@
-<p align="center"><img alt="Welcome" src="https://readme-typing-svg.herokuapp.com?color=1FF75D&background=3420FF44&center=true&lines=Hi+there+%F0%9F%91%8B;My+name+is+Naman+Singla;Welcome+to+my+Profile&width=500" /></p>
+<p align="center"><img alt="Welcome" src="https://readme-typing-svg.herokuapp.com?color=1FF75D&background=3420FF44&center=true&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Profile&width=500" /></p>
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning Machine Learning
@@ -44,7 +44,7 @@ Here are some ideas to get you started: -->
     <td align="center" colspan="2"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nsingla20&theme=blue-green&hide_border=true" alt="Naman's wakatime stats" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=nsingla20" alt="Naman's Trophies" /></td>
+    <td align="center" colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=nsingla20&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Naman's Trophies" /></td>
   </tr>
 </table>
 <br>
