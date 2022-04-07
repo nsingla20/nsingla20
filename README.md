@@ -1,35 +1,37 @@
-<!-- [![wakatime](https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg)](https://wakatime.com/@ea16762b-aa50-4142-8fd0-b4683ff2bed6) -->
-<p align="center">
-    <!-- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" /> -->
-    </a>
-    <a href="https://wakatime.com/@ea16762b-aa50-4142-8fd0-b4683ff2bed6"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since Apr 7 2022" /></a>
-    <a href="https://github.com/nsingla20/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/nsingla20?color=0088ff" />
-    </a>
-    <a href="https://github.com/nsingla20/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nsingla20/javat?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    </a>
-  </p>
-### Hi there 👋
-
-<!-- **nsingla20/nsingla20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
+## Hi there 👋
 <!-- - 🔭 I’m currently working on  -->
-<!-- - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on projects on ML -->
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on projects on ML
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
+<!-- [![wakatime](https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg)](https://wakatime.com/@ea16762b-aa50-4142-8fd0-b4683ff2bed6) -->
+<p align="center">
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a> -->
+    <a href="https://wakatime.com/@ea16762b-aa50-4142-8fd0-b4683ff2bed6"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since Apr 7 2022" /></a>
+    <!-- <a href="https://github.com/nsingla20/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/nsingla20?color=0088ff" />
+    </a>
+    <a href="https://github.com/nsingla20/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nsingla20/javat?color=0088ff" />
+    </a> -->
+    <a href="https://github.com/nsingla20/">
+      <img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnsingla201212%2Fhit-counter" />
+    </a>
+    <br />
+    <br />
+    </a>
+  </p>
 
-[![]()](https://git.io/streak-stats)
+
+
+<!-- **nsingla20/nsingla20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
 
 <table style="width:100%">
 <tr>
@@ -42,9 +44,14 @@ Here are some ideas to get you started: -->
   <tr>
     <td align="center" colspan="2"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nsingla20&theme=blue-green&hide_border=true" alt="Naman's wakatime stats" /></td>
   </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=nsingla20" alt="Naman's Trophies" /></td>
+  </tr>
 </table>
 <br>
 
 <!-- [![Naman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nsingla20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://komarev.com/ghpvc/?username=nsingla20&style=round)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
