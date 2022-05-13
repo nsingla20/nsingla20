@@ -1,9 +1,9 @@
 <p align="center"><img alt="Welcome" src="https://readme-typing-svg.herokuapp.com?color=1FF75D&background=3420FF44&center=true&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Profile&width=500" /></p>
 
-<!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on projects on ML
-<!-- - 🤔 I’m looking for help with ... -->
+- 🔭 I’m currently working on BlockChain
+<!-- - 🌱 I’m currently learning Machine Learning -->
+<!-- - 👯 I’m looking to collaborate on projects on ML -->
+- 🤔 I’m looking for help with Side-Channel Attacks on BlockChain
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
